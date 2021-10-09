@@ -11,5 +11,8 @@ The purpose of this assignment was to showcase my ability to follow accessiblity
 ## Website
 https://wcastellan.github.io/code-refactor-horiseon/
 
+## Picture
+![Alt text](https://github.com/wcastellan/code-refactor-horiseon/blob/main/assets/images/capture-of-website.PNG)
+
 ## Contribution
 Wyatt Castellan
